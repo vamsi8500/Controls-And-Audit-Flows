@@ -1,8 +1,6 @@
 # Governance Control for Review
 
-## Governance Control Aspects
-
-Governance control ensures compliance, security, and structured policy management with respect to:
+In governance control, the aspects will be defined to ensure compliance, security, and structured policy management With Respect to
 - **Confidentiality**
 - **Integrity**
 - **Availability**

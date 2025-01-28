@@ -21,7 +21,7 @@
 - Procedures for BGV are documented in HR policy and procedure documents.
 
 #### Step 2: Reviewing Policy & Procedure Documents
-- Audit teams review HR policy and procedure documents to ensure alignment with compliance standards.
+- review HR policy and procedure documents to ensure alignment with compliance standards.
 - Control activities must follow laws, regulations, and ethical hiring guidelines.
 
 #### Step 3: Employment Terms & Agreements
@@ -31,12 +31,6 @@
   - Data Protection Agreements
 - Employees sign and acknowledge policies during onboarding.
 
-#### Step 4: Sampling for Audit
-- HR maintains records of new joiners.
-- Sampling method for audit:
-  - Total population data (e.g., 600 new employees).
-  - A random sample of 25 employees is selected for review.
-  - HR policies and agreements are checked for compliance.
 
 ### 2. During Employment
 #### Information Security Awareness

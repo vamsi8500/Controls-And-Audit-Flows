@@ -5,3 +5,4 @@
 - [Attestation Policies](https://github.com/vamsi8500/Controls/blob/main/Attestation/Attestation-Policies.md)
 - [About People Control](https://github.com/vamsi8500/Controls/blob/main/People%20Control/001-about-Hr-control.md)
 - [Hr Audit](https://github.com/vamsi8500/Controls/blob/main/People%20Control/002-Hr-audit-process.md)
+- [Asset Management](https://github.com/vamsi8500/Controls/blob/main/Asset%20Management/001-About-Asset-Management.md)

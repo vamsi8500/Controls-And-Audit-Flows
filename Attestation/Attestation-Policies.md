@@ -1,5 +1,11 @@
 # Attestation Policies 
-An Attestation Policy ensures formal acknowledgment of compliance with policies, maintaining records for accountability and audits.
+it is designed for employees with in the organization  
+## Acceptable Useage policy
+what are the do's and dont's in the organization  like useage of assets ,networks 
+## Information security Policy
+
+Acts as the parent policy governing all security controls. 
+Establishes overall security guidelines for the organization. 
 
 
 

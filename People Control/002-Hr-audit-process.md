@@ -21,13 +21,12 @@
 - Management justification (e.g., "COVID-19 lockdown delays").
 
 ### Step 3: Walkthrough
-- Conduct testing, sampling, and evidence gathering:
+- **Sampling**:
+  -When the population data is More, we perform sampling based on the sample size and sample methodology sample size is determined by applying the sample size formula 10% of the population data or 25 samples whichever is less in size (e.g., 600 new employees).
+   Conduct testing, sampling, and evidence gathering:
   - Over-the-shoulder testing (e.g., screen-sharing session).
   - If no evidence is gathered, document it.
   - Mask IT data to preserve employee confidentiality.
-- **Sampling**:
-  - Create a master list.
-  - Select a sample for evidence collection.
   - Collect BGV reports to confirm compliance.
     #### Core Points for Review
 - **Tools**: Are tools used to maintain BGV control?

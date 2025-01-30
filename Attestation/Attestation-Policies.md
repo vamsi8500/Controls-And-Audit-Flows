@@ -2,6 +2,11 @@
 it is designed for employees with in the organization  
 ## Acceptable Useage policy
 what are the do's and dont's in the organization  like useage of assets ,networks 
+### Dont's 
+like watching youtube
+disabling anti virus
+installing appilications
+
 ## Information security Policy
 
 Acts as the parent policy governing all security controls. 

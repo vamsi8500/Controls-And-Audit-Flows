@@ -30,4 +30,6 @@ Controls access to applications, networks, and servers.
 - A 24-hour gap is required before granting access to Project B.  
 
 ### Leaving (Employee Exit)  
-- On the last working day, HR must notify departments to revoke all physical and logical access.  
+- On the last working day, HR must notify departments to revoke all physical and logical access.
+- IT dept has to trigger an confirmation email about the successful revocation about the access befor exit
+- it will be 24hrs or 48 hrs based on the procedure document 

@@ -16,3 +16,4 @@
 - [Access Audit](https://github.com/vamsi8500/Controls/blob/main/Access%20Control/007-Access-Audit.md)
 - [UAR Audit](https://github.com/vamsi8500/Controls/blob/main/Access%20Control/008-UAR-Audit.md)
 - [MFA Audit](https://github.com/vamsi8500/Controls/blob/main/Access%20Control/009-MFA-Audit.md)
+- [Password Policy Audit](https://github.com/vamsi8500/Controls/blob/main/Access%20Control/010-Password-Policy-Audit.md)

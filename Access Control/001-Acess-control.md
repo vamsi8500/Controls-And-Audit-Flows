@@ -27,6 +27,7 @@ Controls access to applications, networks, and servers.
 - This email serves as evidence of formal registration.  
 
 ### Moving (Internal Transfers)  
+  Moving from Proj A to Project B
 - HR sends a request to revoke all access from Project A.  
 - A 24-hour gap is required before granting access to Project B.  
 

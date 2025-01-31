@@ -14,3 +14,4 @@
 - [CD 4.3 MFA and single sign on](https://github.com/vamsi8500/Controls/blob/main/Access%20Control/005-MFA-%26-SSO.md)
 - [CD 4.4 User Acess Review](https://github.com/vamsi8500/Controls/blob/main/Access%20Control/006-UAR-User-Access-Review.md)
 - [Access Audit](https://github.com/vamsi8500/Controls/blob/main/Access%20Control/007-Access-Audit.md)
+- [UAR Audit](https://github.com/vamsi8500/Controls/blob/main/Access%20Control/008-UAR-Audit.md)

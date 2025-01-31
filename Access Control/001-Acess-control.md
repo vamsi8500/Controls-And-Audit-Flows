@@ -20,6 +20,7 @@ Controls access to applications, networks, and servers.
 - Developers are given access only to specific project repositories on GitHub.  
 
 ## (JML) Process  
+### Subset of HR and Access Control 
 
 ### Joining (New Employees)  
 - HR triggers a formal email to relevant departments for access creation.  

@@ -38,7 +38,8 @@
 
 - Conduct **walkthroughs with CO** and record the **Name, Designation, and Timestamp**.
 - **Audit Period:** **Feb 2022 – Feb 2023**
-
+   Access shoud be granted only after approval Date
+   here access requestor and approver should be different as part of (seggrigation of duties)
 #### Evidence Collection & Validation
 - Gather supporting evidence through:
   - Review of **Master List** for new joiners.

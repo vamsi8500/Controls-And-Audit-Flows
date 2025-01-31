@@ -7,3 +7,4 @@
 - [Hr Audit](https://github.com/vamsi8500/Controls/blob/main/People%20Control/002-Hr-audit-process.md)
 - [CD 3 Asset Management](https://github.com/vamsi8500/Controls/blob/main/Asset%20Management/001-About-Asset-Management.md)
 - [Asset Audit](https://github.com/vamsi8500/Controls/blob/main/Asset%20Management/002-Asset-audit.md)
+- [CD 4 Access](https://github.com/vamsi8500/Controls/blob/main/Access%20Control/001-Acess-control.md)

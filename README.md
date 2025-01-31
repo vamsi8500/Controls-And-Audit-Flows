@@ -9,3 +9,4 @@
 - [Asset Audit](https://github.com/vamsi8500/Controls/blob/main/Asset%20Management/002-Asset-audit.md)
 - [CD 4 Access Management](https://github.com/vamsi8500/Controls/blob/main/Access%20Control/001-Acess-control.md)
 - [CD 4.1 Access Provisioning](https://github.com/vamsi8500/Controls/blob/main/Access%20Control/002-Access-Provisioning.md)
+- [CD 4.2 Access De-Provisioning](https://github.com/vamsi8500/Controls/blob/main/Access%20Control/003-Access-Provisioning-Process.md)

@@ -12,3 +12,4 @@
 - [CD 4.2 Access De-Provisioning](https://github.com/vamsi8500/Controls/blob/main/Access%20Control/003-Access-Provisioning-Process.md)
 - [Password Sub Policy](https://github.com/vamsi8500/Controls/blob/main/Access%20Control/004-Password-Policy.md)
 - [CD 4.3 MFA and single sign on](https://github.com/vamsi8500/Controls/blob/main/Access%20Control/005-MFA-%26-SSO.md)
+- [CD 4.4 User Acess Review](https://github.com/vamsi8500/Controls/blob/main/Access%20Control/006-UAR-User-Access-Review.md)

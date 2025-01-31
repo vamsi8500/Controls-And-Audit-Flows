@@ -16,6 +16,7 @@
 - Enforce password expiration, complexity, and reuse restrictions.
 
 ## Secure Authentication Practices
+when connecting to any network they ask for Authentication
 ### Secure Sign-on Procedures
 - **MFA (30-sec OTP)**
 - **Password Complexity:**

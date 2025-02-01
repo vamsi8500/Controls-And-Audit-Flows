@@ -21,3 +21,4 @@
 - [UAR Audit](https://github.com/vamsi8500/Controls/blob/main/Access%20Control/008-UAR-Audit.md)
 - [MFA Audit](https://github.com/vamsi8500/Controls/blob/main/Access%20Control/009-MFA-Audit.md)
 - [Password Policy Audit](https://github.com/vamsi8500/Controls/blob/main/Access%20Control/010-Password-Policy-Audit.md)
+- [Encryption 1.1](https://github.com/vamsi8500/Controls/blob/main/Encryption/001-Cryptography.md)

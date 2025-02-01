@@ -2,7 +2,8 @@
 
 - [Basics 1.1 Roles](https://github.com/vamsi8500/Controls/blob/main/Basics/001-Roles-%26-responsibilities.md)
 - [Basics 1.2 CIA](https://github.com/vamsi8500/Controls/blob/main/Basics/002-CIA.md)
-- 
+- [Basics 1.3 SOA](https://github.com/vamsi8500/Controls/blob/main/Basics/003-SOA-Detail.md)
+- [Basics 1.4 Controls & sampling](
   
 - [CD 1 Governance](https://github.com/vamsi8500/Controls/blob/main/governance/001-about-governance.md)
 - [Governance Audit](https://github.com/vamsi8500/Controls/blob/main/governance/002-Governance-Audit.md)

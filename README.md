@@ -5,7 +5,7 @@
 - [Basics 1.3 SOA](https://github.com/vamsi8500/Controls/blob/main/Basics/003-SOA-Detail.md)
 - [Basics 1.4 Controls & sampling](https://github.com/vamsi8500/Controls/blob/main/Basics/004-control-%26-Sampling.md)
 - [Clause 4](https://github.com/vamsi8500/Controls/blob/main/Clauses/Clause-4.md)
-- 
+- [clause 5](https://github.com/vamsi8500/Controls/blob/main/Clauses/Clause-5.md)
 - [CD 1 Governance](https://github.com/vamsi8500/Controls/blob/main/governance/001-about-governance.md)
 - [Governance Audit](https://github.com/vamsi8500/Controls/blob/main/governance/002-Governance-Audit.md)
 - [Attestation Policies](https://github.com/vamsi8500/Controls/blob/main/Attestation/Attestation-Policies.md)

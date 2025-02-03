@@ -23,7 +23,7 @@
 - Is there a documented process for provisioning, de-provisioning, and modifying access?
 
 **Tool Usage**
-- Is an automated tool used for access management? (e.g., CyberArk)
+- Is an automated tool used for access management? (e.g., CyberArk, okta)
 
 #### Process Flow
 - **Joining:** HR Email → Respective Department → Access Provisioning

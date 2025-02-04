@@ -36,6 +36,7 @@ Encryption is a two-way cryptographic process that converts readable data (plain
 
 ---
 
+
 ## Key Differences Between Hashing and Encryption
 
 | Feature | Hashing | Encryption |
@@ -46,3 +47,22 @@ Encryption is a two-way cryptographic process that converts readable data (plain
 | **Key Usage** | No key required | Requires a key (symmetric or asymmetric) |
 | **Use Cases** | Password storage, checksums, blockchain | Secure communication, data protection, online transactions |
 | **Examples** | SHA-256, MD5, SHA-1 | AES, RSA, Blowfish |
+
+
+# Difference Between TLS 1.2 and TLS 1.3
+
+## TLS 1.2:
+
+- **Support for Older Algorithms**: TLS 1.2 supports older encryption algorithms like RC4, SHA-1, and others that are now considered insecure.
+- **Longer Handshake**: The handshake process is more complex and takes more time due to multiple round trips between the client and server.
+- **Backward Compatibility**: TLS 1.2 is designed to be compatible with older systems, allowing it to work with a wider range of clients and servers.
+
+## TLS 1.3:
+
+- **Improved Security**: TLS 1.3 removes outdated and vulnerable algorithms (like RC4 and SHA-1), making it more secure than TLS 1.2.
+- **Faster Handshake**: TLS 1.3 has a more efficient handshake process with fewer round trips, which improves the connection speed.
+- **Simplified Protocol**: TLS 1.3 removes many older features and options, simplifying the protocol and reducing potential vulnerabilities.
+- **Forward Secrecy by Default**: TLS 1.3 mandates forward secrecy, ensuring that session keys are never stored and cannot be decrypted later, even if private keys are compromised.
+
+## Conclusion:
+Overall, TLS 1.3 provides better performance and security than TLS 1.2, and is the recommended version for modern applications.

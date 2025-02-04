@@ -27,3 +27,4 @@
 - [Encryption 1.2 Hashing and encryption](https://github.com/vamsi8500/Controls/blob/main/Encryption/002-Hashing-and-encryption.md)
 - [Key Management System](https://github.com/vamsi8500/Controls/blob/main/Encryption/003-Key-Management-System.md)
 - [Encryption Audit](https://github.com/vamsi8500/Controls/blob/main/Encryption/004-Encryption-Audit.md)
+- [TLS 1.2 Scenario](https://github.com/vamsi8500/Controls/blob/main/Encryption/005-TLS1.2-Working.md)

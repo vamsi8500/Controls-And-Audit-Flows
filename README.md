@@ -29,3 +29,4 @@
 - [Encryption Audit](https://github.com/vamsi8500/Controls/blob/main/Encryption/004-Encryption-Audit.md)
 - [TLS 1.2 Scenario](https://github.com/vamsi8500/Controls/blob/main/Encryption/005-TLS1.2-Working.md)
 - [SSDLC](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/SSDLC/001-About-SSDLC.md)
+- [SSDLC Audit](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/SSDLC/002-SSDLC-Audit.md)

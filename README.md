@@ -36,3 +36,4 @@
 - [Disposal Audit](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/Disposal%20Policy/002-Disposal-Audit.md)
 - [Phishing](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/Phishing/001-About-Phishing.md)
 - [VAPT](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/VAPT/001-About-VAPT.md)
+- [VAPT Audit](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/VAPT/002-VAPT-Audit.md)

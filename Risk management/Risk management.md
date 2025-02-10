@@ -128,6 +128,7 @@ The **Risk Management Life Cycle** consists of **eight** structured steps to sys
 - Developing a **Risk Treatment Plan (RTP)**.
 - Allocating budget and resources.
 - Implementing new controls and contingency plans.
+-  **Inherent Risk:** The risk level before implementing any control measures.
 
 ### **Step 6: Risk Reporting**
 **Purpose:** Communicate risk details to management for decision-making.

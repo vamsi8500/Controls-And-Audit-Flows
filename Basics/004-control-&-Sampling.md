@@ -1,57 +1,63 @@
-# Control Functions Based on Their Role
+# Definition of Control
+Control refers to a measure or mechanism implemented within an organization to manage risk, ensure security, and maintain compliance with policies and regulations. Controls are designed to prevent, detect, correct, deter, or compensate for risks that could impact business operations, security, or compliance objectives.
 
-## Preventive Controls:
-- **Function:** Prevent an incident from occurring.
-- **Examples:**
-  - Antivirus installation before exposure to threats.
-  - User authentication to restrict unauthorized access.
+## Control Functions Based on Their Role
 
-## Detective Controls:
-- **Function:** Identify and alert on incidents as they occur.
-- **Examples:**
-  - Anti-malware software that alerts administrators upon detecting a virus.
-  - Ransomware response plans that trigger notifications.
+### Preventive Controls:
+**Function:** Prevent an incident from occurring.
 
-## Corrective Controls:
-- **Function:** Limit damage and restore systems after an incident.
-- **Examples:**
-  - System reset or reimaging after a virus attack (even if it causes data loss).
-  - Cybersecurity insurance and revised incident response plans.
+**Examples:**
+- Antivirus installation before exposure to threats.
+- User authentication to restrict unauthorized access.
 
-## Compensating Controls:
-- **Function:** Alternative controls that provide the necessary protection when primary controls are insufficient.
-- **Note:** Discussed in greater detail in contexts such as encryption and additional layers of security.
+### Detective Controls:
+**Function:** Identify and alert on incidents as they occur.
 
-## Deterrent Controls:
-- **Function:** Discourage potential attackers or improper behavior.
-- **Examples:**
-  - Warning signs.
-  - Login banners.
-  - Auditing measures.
-  - Posters or digital signage (e.g., “No Password Sharing” notices).
+**Examples:**
+- Anti-malware software that alerts administrators upon detecting a virus.
+- Ransomware response plans that trigger notifications.
 
----
+### Corrective Controls:
+**Function:** Limit damage and restore systems after an incident.
 
-# Controls in the Context of CIA
+**Examples:**
+- System reset or reimaging after a virus attack (even if it causes data loss).
+- Cybersecurity insurance and revised incident response plans.
 
-## Confidentiality Controls:
-- **Examples:**
-  - Password management.
-  - Cryptography (encryption) to protect sensitive data.
-  - Communication security measures.
+### Compensating Controls:
+**Function:** Alternative controls that provide the necessary protection when primary controls are insufficient.
 
-## Integrity Controls:
-- **Examples:**
-  - Change management.
-  - Capacity management.
-  - Media handling and asset classification.
-  - Inventory control (e.g., tracking backups, management systems).
+**Note:** Discussed in greater detail in contexts such as encryption and additional layers of security.
 
-## Availability Controls:
-- **Examples:**
-  - Access controls.
-  - Authentication measures.
-  - Business continuity measures such as backup management, disaster recovery planning, and asset management.
+### Deterrent Controls:
+**Function:** Discourage potential attackers or improper behavior.
+
+**Examples:**
+- Warning signs.
+- Login banners.
+- Auditing measures.
+- Posters or digital signage (e.g., “No Password Sharing” notices).
+
+## Controls in the Context of CIA
+
+### Confidentiality Controls:
+**Examples:**
+- Password management.
+- Cryptography (encryption) to protect sensitive data.
+- Communication security measures.
+
+### Integrity Controls:
+**Examples:**
+- Change management.
+- Capacity management.
+- Media handling and asset classification.
+- Inventory control (e.g., tracking backups, management systems).
+
+### Availability Controls:
+**Examples:**
+- Access controls.
+- Authentication measures.
+- Business continuity measures such as backup management, disaster recovery planning, and asset management.
 
 ---
 
@@ -85,19 +91,22 @@ Auditors use two broad types of sampling techniques:
 ### A. Statistical Sampling
 - Uses mathematical and statistical methods to ensure that the selected sample represents the entire population.
 - Allows results from the sample to be extrapolated to the whole population with a defined confidence level.
-- **Common Statistical Sampling Methods:**
-  - Random Sampling – Every item has an equal chance of being selected.
-  - Systematic Sampling – Items are selected at fixed intervals (e.g., every 10th record).
+
+#### Common Statistical Sampling Methods:
+- **Random Sampling** – Every item has an equal chance of being selected.
+- **Systematic Sampling** – Items are selected at fixed intervals (e.g., every 10th record).
 
 ### B. Non-Statistical Sampling
 - Does not use mathematical models; instead, the selection is based on auditor judgment or convenience.
 - Results cannot be extrapolated to the entire population, as the sample may not be truly representative.
-- **Common Non-Statistical Sampling Methods:**
-  - Haphazard Sampling – Samples are picked arbitrarily, without a defined structure.
-  - Judgmental Sampling – The auditor selects items based on their experience and risk assessment.
-- **Why do auditors prefer Non-Statistical Sampling?**
-  - It is simpler and faster, especially when dealing with smaller populations.
-  - Allows flexibility in choosing records that may be high-risk.
+
+#### Common Non-Statistical Sampling Methods:
+- **Haphazard Sampling** – Samples are picked arbitrarily, without a defined structure.
+- **Judgmental Sampling** – The auditor selects items based on their experience and risk assessment.
+
+**Why do auditors prefer Non-Statistical Sampling?**
+- It is simpler and faster, especially when dealing with smaller populations.
+- Allows flexibility in choosing records that may be high-risk.
 
 ---
 

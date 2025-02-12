@@ -129,6 +129,9 @@ Change Management is **a crucial process in IT governance** that ensures changes
 By following a structured **change classification, approval workflow, testing, and auditing process**, organizations can ensure that IT changes do not **disrupt business operations or compromise security.**
 
 
+# Change Implementation Flowchart
+
+```plaintext
 Start
   │
   ▼
@@ -187,3 +190,4 @@ Close Change Ticket
   │
   ▼
 End
+```

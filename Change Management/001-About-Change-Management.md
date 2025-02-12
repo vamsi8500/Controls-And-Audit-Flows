@@ -90,16 +90,27 @@ Changes in IT environments are classified into three main types:
 **Audit Sample:** 25 randomly selected change tickets.
 
 ### Audit Checklist - Evidence Collection
+
 ✅ Request from **the requester** (Emails, ITSM Ticket, Audit Findings)
+
 ✅ **Change Ticket** with all necessary details
+
 ✅ **Request for Change (RFC) Form** (mandatory for production)
+
 ✅ **Approval Records** (Customer, Manager, GRC, CAB, etc.)
+
 ✅ **UAT Reports** (Testing in Lower Environment)
+
 ✅ **Validation Reports** (Successful or Failed UAT)
+
 ✅ **Production Change Implementation Reports**
+
 ✅ **Customer Approval for Production Deployment**
+
 ✅ **PIR Documentation** (Who performed it? Findings?)
+
 ✅ **Rollback Plan Execution (if applicable)**
+
 ✅ **Change Ticket Closure Confirmation**
 
 ## 6. Key Control Considerations

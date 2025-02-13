@@ -11,7 +11,7 @@ Change Management (CM) is a preventive control designed to ensure that any modif
 Changes in IT environments are classified into three main types:
 
 ### A. Standard Change
-- These are pre-approved by the **Change Advisory Board (CAB)** and occur frequently.
+- These are pre-approved by the **Change Approval Board (CAB)** and occur frequently.
 - They are considered **low-risk** and follow a well-documented process.
 - Must still be **logged, reviewed, and scheduled** properly.
 

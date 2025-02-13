@@ -59,7 +59,7 @@ Changes in IT environments are classified into three main types:
   - **Customer Approval**
   - **Manager Approval**
   - **Information Security (GRC) Team Approval**
-  - **CAB (Change Advisory Board) Approval**
+  - **CAB (Change Approval Board) Approval**
 
 ### Step 4: Change Implementation
 - Once approved, the **Change Management Team** starts the implementation.

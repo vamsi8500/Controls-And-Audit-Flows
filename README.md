@@ -42,3 +42,4 @@
 - [CD 10 Capacity Management](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/Capacity%20Management/001-About%20Capacity.md)
 - [Capacity Audit](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/Capacity%20Management/002-Capacity-Audit.md)
 - [CD 11 Vulnerability Management](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/Vulnerability%20Management/001-About-Vulnerability.md)
+- [Vulnerability Audit](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/Vulnerability%20Management/002-Vulnerability-Audit.md)

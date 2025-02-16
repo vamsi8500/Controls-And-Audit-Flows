@@ -33,18 +33,18 @@ Let's say a company defines the following:
 - **RPO:** 30 minutes (Maximum 30 minutes of data loss is acceptable)
 - **RTO:** 1 hour (Systems must be restored within 1 hour)
 - **WRT:** 1 hour (Data integrity must be tested within 1 hour)
-- **MTO = RTO + WRT**
+- **MTD = RTO + WRT**
 
-### MTO Calculation:
+### MTD Calculation:
 ```
-MTO = RTO + WRT = 1hr + 1hr = 2hrs
+MTD = RTO + WRT = 1hr + 1hr = 2hrs
 ```
 
 If a cloud security service like **CrowdStrike** is used:
 - **RPO = 30 min**
 - **RTO = 30 min**
 - **WRT = 1 hr**
-- **MTO = 2 hrs**
+- **MTD = 2 hrs**
 
 Each service must ensure that its recovery metrics **do not breach the agreed Service Level Agreements (SLAs).**
 
@@ -93,4 +93,4 @@ If a critical failure is detected, teams must:
 - Update BCMS plans and improve disaster recovery mechanisms.
 
 ## 8. Conclusion
-A **strong BCMS ensures business continuity and quick disaster recovery** by setting recovery objectives, testing regularly, and maintaining compliance. Organizations must regularly assess their **RPO, RTO, WRT, and MTO values** to avoid SLA breaches and minimize operational risks.
+A **strong BCMS ensures business continuity and quick disaster recovery** by setting recovery objectives, testing regularly, and maintaining compliance. Organizations must regularly assess their **RPO, RTO, WRT, and MTD values** to avoid SLA breaches and minimize operational risks.

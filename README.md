@@ -43,3 +43,5 @@
 - [Capacity Audit](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/Capacity%20Management/002-Capacity-Audit.md)
 - [CD 11 Vulnerability Management](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/Vulnerability%20Management/001-About-Vulnerability.md)
 - [Vulnerability Audit](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/Vulnerability%20Management/002-Vulnerability-Audit.md)
+- [CD 12 Logging and monitering](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/Logging%20%26%20Monitering/001-About-Logging.md)
+- 

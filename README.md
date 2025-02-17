@@ -49,3 +49,4 @@
 - [Removable Media Policy Audit](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/Removable%20Media%20Policy/002-Removable-Audit.md)
 - [Bussiness Continuty (BCMS)](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/BCMS/001-About-BCMS.md)
 - [CD 14 Change Management](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/Change%20Management/001-About-Change-Management.md)
+- [Change Management Audit](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/Change%20Management/002-Change-Management-Audit.md)

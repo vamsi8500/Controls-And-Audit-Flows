@@ -169,6 +169,44 @@ At the end of each incident, **Corrective and Preventive Actions (CAPA)** are ta
 - Ensure CSIRP compliance and verify SLA adherence.
 
 
+# INCIDENT REPORT
+
+## 1. Incident Assessment:
+- **Severity Level:** ____________________
+- **Options:** Critical | Significant | Minor | Negligible
+
+## 2. Information Sharing:
+- **Issue:** Developer LAN network is not updated with antivirus
+
+## 3. Technical Details (If applicable):
+- **Issue Type:** Malware affected
+
+## 4. Number of Hosts Affected:
+- [ ] 1 to 100
+- [ ] 100 to 1000
+- [ ] More than 1000
+
+## 5. IP Address of Apparent or Suspect Source:
+- **Source IP Address Range:** 192.168.144.1 - 192.168.144.254
+- **Other Information:**
+  - **IP Address:** 192.168.144.1 - 192.168.144.254
+  - **Computer/Host Name:** Manohar
+  - **Operating System:** Linux
+  - **Other Applications:** Not specified
+
+## 6. Damage Observations Resulting from Incident:
+- Malware-affected systems can be compromised via the network.
+
+## 7. Incident Log:
+- _______________________________________________________
+
+## 8. Additional Information:
+- 150 machines are affected with malware.
+
+**Reviewed By:** ____________________  
+**Approval Sign-Off:** ____________________  
+**Date:** ____________________
+
 - # Incident Mitigation and Resolution
 
 ## 1. Incident Mitigation Using ASIRP (Automated Security Incident Response Plan)

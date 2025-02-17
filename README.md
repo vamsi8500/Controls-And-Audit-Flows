@@ -46,4 +46,4 @@
 - [CD 12 Logging and monitering](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/Logging%20%26%20Monitering/001-About-Logging.md)
 - [Logging Audit](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/Logging%20%26%20Monitering/002-Logging-Audit.md)
 - [CD 13 Removable Media Policy](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/Removable%20Media%20Policy/001-About-Removable-Media-Policy.md)
-- 
+- [Removable Media Policy Audit](https://github.com/vamsi8500/Controls-And-Audit-Flows/blob/main/Removable%20Media%20Policy/002-Removable-Audit.md)

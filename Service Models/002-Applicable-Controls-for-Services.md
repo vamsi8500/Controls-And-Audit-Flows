@@ -56,7 +56,7 @@ Application security is crucial for protecting user data, transactions, and soft
 
 ---
 
-## 2. Infrastructure-as-a-Service (IaaS)
+## 2. Infrastructure-as-a-Service (IaaS) SERVERS/ENDPOINT CONTROLS
 ### Definition:
 IaaS provides virtualized computing resources (servers, networking, and storage) over the cloud. Organizations are responsible for managing applications, data, and security within their IaaS environment.
 

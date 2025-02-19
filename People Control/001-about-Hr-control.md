@@ -42,8 +42,8 @@
 
 ### 3. After Employment
 #### Post-Employment Responsibilities
-- Define and enforce security duties after employment ends.
-- Evidence: Documented post-employment obligations.
+- after employment ends or termination he need follow all exit procedures.
+- Evidence: NOC no objection certificate
 
 #### Confidentiality Agreements
 - Maintain and review confidentiality agreements (NDAs) to protect sensitive information.

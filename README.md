@@ -1,5 +1,4 @@
 # About Controls 
-# security
 
 - [Basics 1.1 Roles](https://github.com/vamsi8500/Controls/blob/main/Basics/001-Roles-%26-responsibilities.md)
 - [Basics 1.2 CIA](https://github.com/vamsi8500/Controls/blob/main/Basics/002-CIA.md)

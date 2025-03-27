@@ -1,26 +1,36 @@
-# Introduction
+# Introduction – Sai Krishna Vamsi Pakalapati
+## Risk Management Professional | IT Risk & Compliance | Audit & Assurance
 
-# Sai Krishna Vamsi Pakalapati
+**(Start)**  
+I am a dedicated Risk Management Professional with three years of experience in IT Risk, Security Compliance, and Audit Management. **(Pause)**  
+I have identified, assessed, and mitigated risks to ensure organizations maintain a robust security posture and regulatory compliance. **(Short Pause)**  
+I have worked extensively on ISO 27001, Third-Party Risk Management (TPRM), SOX 404, and ITGC audits, **(Short Pause)** collaborating with cross-functional teams to strengthen internal controls and minimize security threats. **(Stop)**  
 
-## Information Security Analyst | IT Risk & Compliance | Audit & Assurance
+## Key Areas of Expertise
 
-I am an **Information Security Analyst** at **Virtusa**, with **2 years and 10 months of experience** in **Information Security Audit Management, IT Risk & Compliance, and Governance**. My expertise spans across **ISO 27001, Vendor Risk Assessments, Internal & External Audits, and SOX 404 Compliance**, ensuring robust security frameworks and risk mitigation strategies.
+### 🔹 Risk Assessment & Compliance **(Start)**  
+I have conducted risk assessments to identify security vulnerabilities and compliance gaps in alignment with industry standards. **(Pause)**  
 
-## Key Areas of Expertise:
+I have evaluated and mitigated third-party risks by assessing vendor security controls, **(Short Pause)** regulatory adherence, and operational resilience. **(Pause)**  
 
-### 🔹 Audit & Compliance
-- Lead point of contact for **ISO 27001 certification audits**, managing external auditors and ensuring compliance with industry standards.
-- Driving **Third-Party Risk Management (TPRM)** by assessing vendor security postures based on **data classification, risk rating, and regulatory requirements**.
-- Conducting **SOX 404 assessments** and collaborating with cross-functional teams to **strengthen internal controls and mitigate compliance risks**.
+I have managed SOX 404 and ITGC audits, **(Short Pause)** ensuring effective implementation of internal controls to safeguard business-critical assets. **(Stop)**  
 
-### 🔹 Risk Management & Security Assurance
-- Performing **vendor security assessments** through **detailed questionnaires and live "over-the-shoulder" observations** of key controls.
-- Managing **vendor-specific security reviews** covering **access security, cryptography, backup management, capacity planning, and policy compliance**.
-- Conducting **on-site data center audits** to ensure security controls align with organizational risk appetite and regulatory standards.
+### 🔹 Security & Governance **(Start)**  
+I have developed and implemented risk management frameworks, **(Short Pause)** ensuring compliance with ISO 27001, NIST, GDPR, and other regulatory requirements. **(Pause)**  
 
-### 🔹 Governance & Security Awareness
-- Leading **Information Security and Privacy awareness programs**, including **simulated phishing campaigns** to enhance employee security consciousness.
-- Coordinating **kickoff meetings, vendor clarifications, and weekly status calls** to track progress on vendor risk assessments and compliance initiatives.
-- Ensuring **proactive risk identification and mitigation** by working closely with **clients, vendors, and internal stakeholders**.
+I have led information security awareness programs to enhance organizational resilience against cybersecurity threats. **(Short Pause)**  
 
-With a strong foundation in **IT Risk, Security Compliance, and Audit Management**, I am dedicated to **strengthening organizational security postures, enhancing regulatory compliance, and driving continuous improvements in risk governance frameworks**.
+I have performed security control testing and continuous monitoring, **(Short Pause)** proactively addressing vulnerabilities before they escalate into risks. **(Stop)**  
+
+### 🔹 Vendor Risk & Business Continuity **(Start)**  
+I have overseen Third-Party Risk Management (TPRM), **(Short Pause)** ensuring vendors meet security, compliance, and operational resilience standards. **(Pause)**  
+
+I have assessed business continuity and disaster recovery (BC/DR) plans, **(Short Pause)** ensuring organizations can sustain operations during disruptions. **(Pause)**  
+
+I have collaborated with key stakeholders to develop risk mitigation strategies **(Short Pause)** and align security initiatives with business objectives. **(Stop)**  
+
+## Challenges & Approach **(Start)**  
+In today’s rapidly evolving risk landscape, **(Short Pause)** I have successfully tackled challenges such as vendor security gaps, regulatory shifts, and emerging cyber threats. **(Pause)**  
+I have focused on proactive risk management, cross-functional collaboration, and continuous improvement **(Short Pause)** to ensure organizations remain secure, compliant, and resilient. **(Stop)**  
+
+I have built a strong foundation in risk governance, compliance frameworks, and security assurance, **(Short Pause)** and I am committed to strengthening enterprise risk management, enhancing regulatory compliance, and driving security innovation. **(Stop)** 🚀

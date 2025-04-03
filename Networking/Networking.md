@@ -86,3 +86,34 @@ A **VPN** securely connects users to a network over the internet.
 - **VPNs** ensure secure remote access.
 - **VAPT** identifies security gaps.
 - **Security monitoring and audits** are necessary for compliance.
+- 
+
+# IPS and IPD in Networking
+
+## IPS (Intrusion Prevention System)
+A security system that monitors network traffic for malicious activities and takes actions (like blocking or alerting) to prevent attacks.
+
+- Works in real-time to stop threats before they impact the network.
+- Can be host-based (**HIPS**) or network-based (**NIPS**).
+
+## IPD (Intrusion Prevention and Detection)
+A broader term that includes both **Intrusion Detection Systems (IDS)** and **Intrusion Prevention Systems (IPS)**.
+
+- **IDS** detects and alerts about malicious activity, while **IPS** actively blocks threats.
+- Some systems combine both functions, providing a comprehensive security solution.
+
+## Real-Time Example of IPS (Intrusion Prevention System)
+Imagine you're working in a company's IT security team. One day, an attacker tries to exploit a vulnerability in your organization's web server by sending malicious SQL injection requests.
+
+1. Your **IPS**, which is actively monitoring network traffic, detects the unusual pattern of incoming requests.
+2. It immediately blocks the attack before it reaches the server, preventing data breaches.
+3. At the same time, it sends an alert to the security team for further investigation.
+
+## Real-Time Example of IPD (Intrusion Prevention and Detection)
+Now, consider a scenario where an employee unknowingly downloads a malware-infected file from an email.
+
+1. The **Intrusion Detection System (IDS)** detects unusual behavior, such as unexpected outbound traffic to an unknown server, and raises an alert.
+2. If an **IPS** is also in place, it not only detects the threat but also blocks the malicious connection, stopping the malware from communicating with the hacker.
+
+This combination of **IDS + IPS (IPD)** ensures both detection and prevention of cyber threats in real-time.
+

@@ -1,30 +1,31 @@
-# Sai Krishna Vamsi Pakalapati  
-**Risk Management Professional | IT Risk & Compliance | Audit & Assurance**  
+# Introduction
 
-Over the past three years, I’ve been deeply involved in IT risk management, security compliance, and audit processes. My role has always been about more than just checking boxes—I've worked hands-on to identify risks, strengthen internal controls, and ensure organizations stay ahead of security threats.  
+## Hi, my name is Sai Krishna Vamsi.
 
-I’ve worked extensively with frameworks like **ISO 27001, SOX 404, and ITGC audits**, helping organizations build a strong compliance foundation. Whether it’s assessing third-party vendors, managing security risks, or working with auditors, my focus is on making security a business enabler rather than a bottleneck.  
+I have nearly three years of experience in **Information Security**, focusing on **audit and risk management**.
 
-## What I Do  
+I worked at **Virtusa as an Information Security Analyst**, where I was responsible for **ISO 27001 compliance, SOX 404 audits, and vendor risk assessments**.
 
-### 🔹 Risk Assessment & Compliance  
-One of the key aspects of my role is identifying security gaps before they turn into real threats. I’ve conducted multiple risk assessments, ensuring organizations meet compliance requirements while staying secure.  
+## My Role at Virtusa
 
-For example, during a recent **ITGC audit**, I discovered inconsistencies in user access controls. By working closely with the internal teams, we implemented stronger **role-based access policies** that significantly reduced risk exposure.  
+At Virtusa, I worked closely with both **internal teams and external auditors** to manage security audits. One of my key responsibilities was handling **ISO 27001 audits**, where I acted as the primary point of contact for external auditors—ensuring that all security controls were in place and properly documented.
 
-### 🔹 Security & Governance  
-I’ve worked on implementing risk frameworks aligned with **ISO 27001**, ensuring security isn’t just a one-time effort but an ongoing process.  
+I also played a crucial role in **vendor risk management**. This involved assessing **third-party vendors** based on **data classification, security posture, and risk ratings**. I conducted **deep-dive security assessments** covering **access security, cryptography, backup management, and capacity planning**.
 
-In one case, I led an **information security awareness initiative** where we trained employees on phishing and social engineering risks. After the program, we saw a **40% reduction in phishing-related incidents**, proving that security awareness is just as critical as technical controls.  
+## Security Awareness and Training
 
-### 🔹 Vendor Risk & Business Continuity  
-I’ve evaluated and onboarded multiple third-party vendors, ensuring their security controls align with industry best practices.  
+A big part of my role was also **security awareness and training**. I conducted **organization-wide training sessions** to educate employees on **information security and privacy best practices**. I also led **phishing awareness campaigns using SET tools**, helping employees recognize and respond to security threats.
 
-A real challenge I faced was when a **key cloud vendor** didn’t meet our security expectations. Instead of rejecting them outright, I worked with them to enhance their security posture—defining stricter **encryption standards and access controls**. This not only made the vendor compliant but also strengthened our **supply chain security**.  
+## Audit and Assessment Coordination
 
-## How I Approach Challenges  
-Risk is always evolving—**new cyber threats, shifting regulations, and third-party risks** are constant. Instead of reacting to risks after they happen, I take a **proactive approach**, anticipating potential issues and addressing them before they become major problems.  
+In addition to that, I was involved in **audit and assessment coordination**. I led **Third-Party Security (TPS) reviews and SOX 404 audits**, facilitated **kickoff meetings with stakeholders**, and held **weekly progress discussions** with the **Vendor Relationship Officer (VRO)** to track assessment progress.
 
-For instance, when a **regulatory update** affected our third-party risk assessments, I quickly adapted our vendor evaluation process, ensuring compliance without disrupting business operations.  
+## Hands-on Experience in Field Audits
 
-At the end of the day, **my goal is simple**—make security and compliance an **asset to the business, not a roadblock**.  
+I also have hands-on experience in **field audits and on-site security inspections**. I performed **live over-the-shoulder security reviews**, assessed critical security controls, and conducted **data center security audits** to verify compliance with security policies.
+
+## My Passion for Security
+
+Overall, my experience at Virtusa has given me a strong foundation in **audit management, compliance assurance, and risk assessment**. I'm passionate about making sure security frameworks are **not just implemented—but effectively followed** to protect data and meet regulatory requirements.
+
+I enjoy working in **dynamic environments**, collaborating with teams, and driving security initiatives that strengthen an organization’s security posture.

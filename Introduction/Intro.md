@@ -1,6 +1,4 @@
-# Introduction
-
-## Hi, my name is Sai Krishna Vamsi.
+# Hi, my name is Sai Krishna Vamsi.
 
 I have nearly three years of experience in **Information Security**, focusing on **audit and risk management**.
 

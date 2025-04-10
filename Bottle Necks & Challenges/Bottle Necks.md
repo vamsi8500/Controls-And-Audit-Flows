@@ -2,6 +2,28 @@
 
 ## Challenges Faced During the Audit
 
+# Experience Handling Tough SPOCs and Identifying BCP Report Issues
+
+## Dealing with SPOCs
+
+The SPOCs I had to deal with were tough. It was very difficult to make them understand what the actual requirement was. They often refrained from listening to the requirements and unnecessarily escalated matters.
+
+However, dealing with them helped shape me professionally. I've gained a better understanding of how to deal with crucial clients, manage expectations, and communicate effectively under pressure.
+
+
+
+
+
+## Major Finding in BCP Reports
+
+The BCP (Business Continuity Planning) reports furnished by the third party were found to be inaccurate:
+
+- The **RTO (Recovery Time Objective)** and **RPO (Recovery Point Objective)** timings were misleading.
+- There were discrepancies between the **server downtime and uptime timings** shown in screenshots and the ones documented in the BCP report.
+
+This inconsistency was identified as a **major finding**, indicating a significant gap in the third party’s reporting accuracy and reliability.
+
+
 ### Gathering Evidence from the Auditee (Vendor)
 - Vendors often delay providing necessary evidence, making the audit process time-consuming.
 

@@ -59,6 +59,44 @@ An **SLA** defines the level of service and guarantees provided by a vendor. If 
 | **RTO** | 12 hours |
 | **WRT** | 6 hours |
 
+# RTO (Recovery Time Objective) and RPO (Recovery Point Objective)
+
+**RTO** and **RPO** are two key concepts in disaster recovery and business continuity planning. Let’s break them down with simple definitions and examples:
+
+---
+
+## 1. RTO – Recovery Time Objective
+
+**Definition:**  
+The maximum acceptable amount of time it should take to restore a system or application after a failure or disaster.
+
+**Example:**  
+Let’s say your e-commerce site goes down due to a server crash. If your **RTO is 2 hours**, it means your IT team should bring the system back online within 2 hours to avoid serious business impact.
+
+---
+
+## 2. RPO – Recovery Point Objective
+
+**Definition:**  
+The maximum acceptable amount of data loss measured in time. It defines the point in time to which data must be restored.
+
+**Example:**  
+If your **RPO is 15 minutes**, and the system crashes at 2:00 PM, then you should be able to recover data up to 1:45 PM. This means you can afford to lose only 15 minutes worth of data.
+
+---
+
+## Combined Example
+
+Imagine you’re running an online banking system:
+
+- **RTO = 4 hours** → You must bring the system back up within 4 hours.
+- **RPO = 10 minutes** → You can afford to lose at most 10 minutes of data (e.g., transactions, logs).
+
+### So, your disaster recovery plan should ensure that:
+- Backups are taken every 10 minutes.
+- Systems are capable of being restored and operational in less than 4 hours.
+
+
 If breached, an investigation is required with **evidence** such as:
 - Policies & procedures documentation
 - Business Risk Analysis (BRA) and DR plans

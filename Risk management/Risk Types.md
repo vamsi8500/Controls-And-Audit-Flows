@@ -39,3 +39,52 @@ Risk related to outdated or unpatched systems and software.
 ## 10. Physical Security Risk
 Risk related to unauthorized physical access or environmental hazards.
 - **Example**: Lack of CCTV, access badge misuse, or server room overheating.
+
+- # Quantitative vs Qualitative Risk Models
+
+| Feature | Qualitative Risk Model | Quantitative Risk Model |
+|--------|-----------------------------|------------------------------|
+| 🔍 **Definition** | Assesses risk using descriptive categories (e.g., High, Medium, Low) | Assesses risk using numerical values (e.g., monetary loss, probabilities) |
+| 📏 **Measurement** | Subjective, based on expert judgment | Objective, based on data and calculations |
+| 🛠️ **Tools** | Risk matrices, heat maps, interviews | Monte Carlo simulations, ALE, probability distributions |
+| 📈 **Output** | Risk rankings or priority lists | Exact financial impact and probability values |
+| 🧠 **Used When** | Data is scarce or for initial risk assessments | Data is available and precise risk measurement is needed |
+| 💼 **Common In** | Small/medium businesses, early ISMS phases | Financial services, insurance, high-risk industries |
+
+---
+
+## 🔹 Qualitative Risk Model – Example
+
+You identify a threat of phishing to your organization.
+
+- **Likelihood** = High  
+- **Impact** = Medium  
+- **Risk Level** = High (based on matrix)
+
+✅ Easy to understand, fast to implement  
+❌ Subjective, inconsistent between people
+
+---
+
+## 🔸 Quantitative Risk Model – Example
+
+You estimate:
+
+- **Annual Rate of Occurrence (ARO)** = 0.5  
+- **Single Loss Expectancy (SLE)** = $50,000  
+- **Annual Loss Expectancy (ALE)** = ARO × SLE = **$25,000**
+
+✅ Precise and data-driven  
+❌ Time-consuming, needs reliable historical data
+
+---
+
+## 📚 When to Use What?
+
+| Situation | Use Model |
+|----------|------------|
+| You're starting ISMS and lack detailed data | Qualitative |
+| You need executive buy-in and a quick heat map | Qualitative |
+| You're justifying cybersecurity investment | Quantitative |
+| You're managing regulatory or financial risk | Quantitative |
+

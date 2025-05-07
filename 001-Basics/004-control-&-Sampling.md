@@ -17,6 +17,66 @@ Control refers to a measure or mechanism implemented within an organization to m
 - Anti-malware software that alerts administrators upon detecting a virus.
 - Ransomware response plans that trigger notifications.
 
+
+# Preventive Controls
+
+**Definition:** These are security measures put in place before an incident occurs to reduce the chance of a security breach, data loss, or system failure.
+
+## 🔒 Examples in Detail:
+
+### Access Controls
+- **Purpose:** Restrict access to data and systems to only authorized individuals.
+- **Example:** Employees in the finance department can view financial reports, but not HR records. Access is granted based on job roles (Role-Based Access Control - RBAC).
+
+### Firewalls
+- **Purpose:** Monitor and filter incoming/outgoing network traffic to block unauthorized access.
+- **Example:** A company firewall blocks traffic from suspicious IP addresses and prevents access to blacklisted websites.
+
+### Multi-Factor Authentication (MFA)
+- **Purpose:** Adds an extra layer of security beyond just a password.
+- **Example:** A user must enter their password and a code sent to their mobile device to access corporate email.
+
+### Antivirus (Real-time Protection)
+- **Purpose:** Detects and blocks malware in real-time before it can harm the system.
+- **Example:** If a user accidentally downloads a malicious file, the antivirus blocks the file from running.
+
+### Security Awareness Training
+- **Purpose:** Reduces human errors by educating employees about cybersecurity best practices.
+- **Example:** Training staff to identify phishing emails, avoid clicking on unknown links, and report suspicious behavior.
+
+# 🔧 Corrective Controls
+
+**Definition:** These are actions taken after an incident has occurred to fix the issue, recover systems or data, and prevent recurrence.
+
+## 🛠️ Examples in Detail:
+
+### Data Backup and Restore
+- **Purpose:** Restore data lost due to a cyberattack, accidental deletion, or system crash.
+- **Example:** After a ransomware attack, the organization restores clean data from the backup taken the previous night.
+
+### Incident Response Plan
+- **Purpose:** A structured approach to detect, respond to, and recover from security incidents.
+- **Example:** A cyber incident response team isolates the affected network, analyzes the breach, and communicates with stakeholders.
+
+### Patch Updates (Post-Attack)
+- **Purpose:** Fix vulnerabilities that were exploited during an incident.
+- **Example:** A software vendor releases a patch after a zero-day exploit is discovered. The IT team installs it to close the gap.
+
+### Account Reset
+- **Purpose:** Regain control over compromised or locked user accounts.
+- **Example:** After detecting suspicious login attempts, the user’s account is locked. The helpdesk resets the password after verification.
+
+### Malware Removal Tools
+- **Purpose:** Clean systems infected with viruses or malware.
+- **Example:** After identifying a worm spreading across internal systems, an antivirus tool is used to remove the infection and restore functionality.
+
+# Summary Table
+
+| Type         | Purpose                         | Example                                                |
+|--------------|----------------------------------|--------------------------------------------------------|
+| Preventive   | Stop incidents before they occur | MFA, firewalls, access control, training, antivirus    |
+| Corrective   | Fix issues after they occur      | Backups, incident response, patching, account reset    |
+
 ### Corrective Controls:
 **Function:** Limit damage and restore systems after an incident.
 
